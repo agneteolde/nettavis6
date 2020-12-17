@@ -1,0 +1,53 @@
+header{
+             max-width: 970px;
+         }
+
+
+         
+         nav{
+             background-color: gray;
+             display: grid;
+             grid-template-columns: auto repeat(4,1fr);
+             align-items: center;
+             margin-bottom: 10px;
+             max-width: 970px;
+             
+         }
+        
+         nav a{
+             padding-left: 30px;
+             padding-right: 30px;
+             color: white;
+             background-color: grey;
+             padding: 20px;
+         }
+         
+         nav.heim{
+             background-color: coral;
+             
+             font-size: 50px;
+             padding: 10px;
+         }
+        
+
+body{
+            text-align: center;
+        }
+    
+        main{
+            max-width: 970px;
+        }
+    
+        img{
+            max-width: 100px;
+        }
+        
+        p{
+            
+        }
+
+
+
+
+    
+       
